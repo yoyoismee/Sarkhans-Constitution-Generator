@@ -23,13 +23,13 @@ python train.py constitution.txt
 to draft some Constitution just
 
 
-python draft.py [Constitution length in word]
-
+python draft.py [Constitution length in word] --seed [seed word]
+(seed is optional)
 
 E.g. 
 
 
-python draft.py 3000
+python draft.py 3000 --seed ประชาชน
 
 
 
