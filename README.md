@@ -1,6 +1,7 @@
 # Sarkhans-Constitution-Generator
 
 This repo is for educational and entertainment purposes only. 
+
 // in fact it just for fun
 
 we provide Sarkhan's constitution in constitution.txt
