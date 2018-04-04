@@ -11,7 +11,7 @@ This repo is for educational and entertainment purposes only.
 
 ## Usage
 we provide Sarkhan's constitution in constitution.txt
-but you can have fun with your own country constitution by preprocess them into the same format (just have a look)
+but you can have fun with your own country constitution by preprocess them into the same format just [have a look at](https://github.com/yoyoismee/Sarkhans-Constitution-Generator/blob/master/constitution.txt)
 >>USE AT YOUR OWN RISK
 
 >>Hint: it seem to be a good idea to replace some word to avoid legal issue 
