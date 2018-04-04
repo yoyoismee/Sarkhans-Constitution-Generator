@@ -10,14 +10,28 @@ but you can have fun with your own country constitution by preprocess them into 
 >>Hint: it seem to be a good idea to replace some word to avoid legal issue 
 
 to train simply run
+
+
 python train.py [textfile]
+
+
 E.g. 
+
+
 python train.py constitution.txt
 
 to draft some Constitution just
+
+
 python draft.py [Constitution length in word]
+
+
 E.g. 
+
+
 python draft.py 3000
+
+
 
 # Extra
 Tokenizer in thai-word-segmentation[Jousimo et al] submodule might be helpful if you want to process your own constitution.
