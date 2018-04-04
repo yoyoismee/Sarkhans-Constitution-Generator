@@ -33,7 +33,7 @@ E.g.    python draft.py 3000 --seed ประชาชน
 
 
 
-# Extra
+## Extra
 Tokenizer in thai-word-segmentation[Jousimo et al] submodule might be helpful if you want to process your own constitution.
 for more information see [this blog post](https://sertiscorp.com/thai-word-segmentation-with-bi-directional_rnn/) or [this repo](https://github.com/sertiscorp/thai-word-segmentation)
 
