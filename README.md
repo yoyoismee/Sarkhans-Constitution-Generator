@@ -15,10 +15,7 @@ to train simply run
 python train.py [textfile]
 
 
-E.g. 
-
-
-python train.py constitution.txt
+E.g.    python train.py constitution.txt
 
 to draft some Constitution just
 
@@ -26,10 +23,7 @@ to draft some Constitution just
 python draft.py [Constitution length in word] --seed [seed word]
 (seed is optional)
 
-E.g. 
-
-
-python draft.py 3000 --seed ประชาชน
+E.g.    python draft.py 3000 --seed ประชาชน
 
 
 
