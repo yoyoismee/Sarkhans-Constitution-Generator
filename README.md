@@ -7,6 +7,7 @@ This repo is for educational and entertainment purposes only.
 ## Requirements
 * python 
 * tensorflow 
+* pickle
 
 ## Usage
 we provide Sarkhan's constitution in constitution.txt
