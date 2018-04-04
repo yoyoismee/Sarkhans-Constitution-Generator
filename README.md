@@ -5,8 +5,8 @@ This repo is for educational and entertainment purposes only.
 
 we provide Sarkhan's constitution in constitution.txt
 but you can have fun with your own country constitution by preprocess them into the same format (just have a look)
->>USE AT YOUR OWN RISK<<
-//Hint: it seem to be a good idea to replace some word to avoid legal issue 
+>>USE AT YOUR OWN RISK
+>>Hint: it seem to be a good idea to replace some word to avoid legal issue 
 
 to train simply run
 python train.py [textfile]
