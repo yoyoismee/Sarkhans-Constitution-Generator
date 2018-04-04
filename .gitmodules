@@ -1,0 +1,3 @@
+[submodule "thai-word-segmentation"]
+	path = thai-word-segmentation
+	url = https://github.com/sertiscorp/thai-word-segmentation.git
